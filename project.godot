@@ -1,10 +1,6 @@
 ; Engine configuration file.
-; It's best edited using the editor UI and not directly,
-; since the parameters that go here are not all obvious.
-;
-; Format:
-;   [section] ; section goes between []
-;   param=value ; assign values to parameters
+; godot reads this on entry to find necessary files to use
+; points godot to scenes/main.tscn
 
 config_version=5
 
