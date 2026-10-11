@@ -1,0 +1,14 @@
+# Godot 4
+.godot/
+.import/
+*.translation
+export_presets.cfg
+export_credentials.cfg
+.mono/
+data_*/
+mono_crash.*.json
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
